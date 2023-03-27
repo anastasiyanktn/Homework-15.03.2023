@@ -9,9 +9,9 @@ public class Main {
 
     public static void main(String[] args) {
         if (printYear(2024)) {
-            System.out.println("Год високосный");
+            System.out.println("Год високосный!");
         } else {
-            System.out.println("Год не високосный");
+            System.out.println("Год не високосный!");
         }
         whichOS(0,2016);
         daysDistance(2,25);
